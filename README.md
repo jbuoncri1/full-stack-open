@@ -1,2 +1,6 @@
 # full-stack-open
-full stack open course from Helsinki
+Full Stack Developer course from Helsinki
+
+https://fullstackopen.com/en/
+
+
